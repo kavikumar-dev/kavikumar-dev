@@ -47,9 +47,12 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 ## 🚀 Projects
 
-I'm building my portfolio through practical projects and continuous learning.
+1. Personal Portfolio Website
+A responsive portfolio website built to showcase my skills, projects, and experience.
 
-Check out my repositories to explore my work!
+Tech Stack: HTML5, CSS3
+Features: Responsive design, modern UI, clean layout
+view : https://kavikumar-dev.github.io/my-portfolio/
 
 ---
 
@@ -65,7 +68,7 @@ Check out my repositories to explore my work!
 ## 📫 Connect With Me
 
 - GitHub: [@kavikumar-dev](https://github.com/kavikumar-dev)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/kavikumar-developer)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/kavikumar-dev)
 
 ---
 
