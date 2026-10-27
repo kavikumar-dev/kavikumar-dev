@@ -50,9 +50,9 @@ I'm a Computer Science and Engineering student passionate about software develop
 1. Personal Portfolio Website
 A responsive portfolio website built to showcase my skills, projects, and experience.
 
-Tech Stack: HTML5, CSS3
-Features: Responsive design, modern UI, clean layout
-view : https://kavikumar-dev.github.io/my-portfolio/
+    Tech Stack: HTML5, CSS3
+    Features: Responsive design, modern UI, clean layout
+    view : https://kavikumar-dev.github.io/my-portfolio/
 
 ---
 
